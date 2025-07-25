@@ -1,5 +1,5 @@
 <!-- ############################### About Section ############################### -->
-## Hi there 👋
+## Hi, I'm Sabiha 👋
 - 🔭 I’m currently working on building a web app with a custom ML recommender system
 - 🌱 I’m currently learning more about ML Libraries in Python
 - 👯 I’m looking to collaborate on projects relating to data-driven apps
